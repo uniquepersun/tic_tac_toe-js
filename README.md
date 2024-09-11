@@ -3,14 +3,7 @@ classic Tic-Tac-Toe game built with JS with a sleek design :game_die: in this ti
 
 
 ## Usage
-grab the game from [releases page](https://github.com/uniquepersun/tic_tac_toe-js/releases) or clone the repo and you’re ready to start marking those Xs and Os! :fire:
-
-
-
-## Requirements :smiley::
-- what you need to install is in  `requirements.txt` file, so you don't have to do much! just run this:
-    pip install -r requirements.txt 
-and you are ready to :boom: those explosivesss!
+just head to the deployed [page](https://uniquepersun.github.io/tic_tac_toe-js/    ) and you’re ready to start marking those Xs and Os! :fire:
 
 
 ## But, how it works??
@@ -23,8 +16,9 @@ Two-player mode for some friendly competition with a buddy! :two_men_holding_han
 
 ## Some screenshots for you :)
 - watch it in aciton!
-    - [here]()
-    - [another!]()
+    - [here](https://github.com/user-attachments/assets/0919d83a-e73e-4107-b405-c9a0ed4a330b)
+    - [another!](https://github.com/user-attachments/assets/b97633f8-1f0d-466e-a573-347d68328469)
+
 
 
 ## Customization :wrench:
